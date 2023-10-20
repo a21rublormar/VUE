@@ -1,0 +1,206 @@
+{
+    "bambas": [
+        {
+          "id": 1,
+          "nombre": "Nike Dunk Low",
+          "marca": "Nike",
+          "modelo": "Dunk low",
+          "descripcion": "Con superposiciones cosidas de apoyo, cuentan con un cierre de cordón seguro con un cuello acolchado en el tobillo para sujetarte.",
+          "image": "./img/NikeDunkLow.jpg",
+          "countItems": 0,
+          "precio": 120.00
+        },
+        {
+          "id": 2,
+          "nombre": "Adidas Originals Rivalry Low White",
+          "marca": "Adidas",
+          "modelo": "Originals Rivalry Low White",
+          "descripcion": "Mantente fresco con estos tenis Rivalry Low para hombre de adidas Originals. Exclusivas de JD, estas zapatillas vienen en color blanco y tienen una parte superior hecha con una mezcla de cuero real y sintético para una sensación suave y un uso duradero. ",
+          "image": "./img/AdidasOriginalsRivalryLowWhite.jpg",
+          "countItems": 0,
+          "precio": 110.00
+        },
+        
+        {
+          "id": 3,
+          "nombre": "Nike Air Force 1 Mid júnior",
+          "marca": "Nike",
+          "modelo": "Air Force 1 Mid júnior",
+          "descripcion": "Hecho a mano con un empeine de cuero todo negro, la zona de los dedos, encaje y la pieza del talón cuentan con un diseño distintivo para un aspecto especial y una correa de velcro en la parte delantera para un ajuste seguro, sea cual sea la situación.",
+          "image": "./img/NikeAirForce1Midjúnior.jpg",
+          "countItems": 0,
+          "precio": 115.00
+        },
+        {
+          "id": 4,
+          "nombre": "Nike Air Max 95 Ultra SE",
+          "marca": "Nike",
+          "modelo": "Air Max 95 Ultra SE",
+          "descripcion": "Parte superior de malla para una mayor transpirabilidad, ofrecen una amortiguación ligera.",
+          "image": "./img/NikeAirMax95UltraSE.jpg",
+          "countItems": 0,
+          "precio": 190.00
+        },
+        {
+          "id": 5,
+          "nombre": "Nike Air Force 1 Low",
+          "marca": "Nike",
+          "modelo": "Air Force 1 Low",
+          "descripcion": "Presentan un estilo duradero más suave incluso que el tablero de la canasta, con costuras resistentes y piel impecable.",
+          "image": "./img/NikeAirForce1Low.jpg",
+          "countItems": 0,
+          "precio": 120.00
+        },
+        {
+            "id": 6,
+            "nombre": "Nike Air Force 1 Shadow",
+            "marca": "Nike",
+            "modelo": "Air Force 1 Shadow",
+            "descripcion": "Estos tenis están hechos de cuero suave y duradero para una sensación lujosa y premium. Cuentan con un cierre de cordones para sujetarlo, con un cuello acolchado para mayor soporte y perforaciones transpirables para ventilación.",
+            "image": "./img/NikeAirForce1Shadow.jpg",
+            "countItems": 0,
+            "precio": 130.00
+          },
+          {
+            "id": 7,
+            "nombre": "Nike TC 7900 Women's",
+            "marca": "Nike",
+            "modelo": "TC 7900 Women's",
+            "descripcion": "Diseñadas para el día a día, las Nike TC 7900 están preparadas para tu viaje. La zona del tobillo acolchada y la amortiguación de espuma suave aportan comodidad, mientras que la malla duradera se combina con un patrón de agarre para darte energía todo el día.",
+            "image": "./img/NikeTC7900Women's.jpg",
+            "countItems": 0,
+            "precio": 120.00
+          },
+          {
+            "id": 8,
+            "nombre": "Nike Blazer Mid '77",
+            "marca": "Nike",
+            "modelo": "Blazer Mid '77",
+            "descripcion": "Nike Blazer Mid '77 Vintage, unas deportivas para mujer de estilo botín. Estas 'sneackers' tipo old-school se han diseñado con caña media para cubrir parte del tobillo. ",
+            "image": "./img/NikeBlazerMid'77.jpg",
+            "countItems": 0,
+            "precio": 110.00
+          },
+          {
+            "id": 9,
+            "nombre": "Nike Air Max 270",
+            "marca": "Nike",
+            "modelo": "Air Max 270",
+            "descripcion": "Las primeras Air Max para el día a día te ofrecen más estilo, comodidad y una gran actitud en las Nike Air Max 270. El diseño se inspira en los iconos de Air Max para destacar la innovación más importante de Nike con una amplia ventana y una gran variedad de colores modernos.",
+            "image": "./img/NikeAirMax270.jpg",
+            "countItems": 0,
+            "precio": 160.00
+          },
+          {
+            "id": 10,
+            "nombre": "Nike Zoom Bella 6",
+            "marca": "Nike",
+            "modelo": "Zoom Bella 6",
+            "descripcion": "Este diseño es compatible con el levantamiento de pesas, los movimientos explosivos y los bailes tras el entrenamiento, cuando presumes del progreso que has ganado a pulso en el gimnasio.",
+            "image": "./img/NikeZoomBella6.jpg",
+            "countItems": 0,
+            "precio": 90.00
+          },
+          {
+            "id": 11,
+            "nombre": "Nike Air VaporMax Plus",
+            "marca": "Nike",
+            "modelo": "Air VaporMax Plus",
+            "descripcion": "En una combinación de colores Work Blue y Cool Grey, estas zapatillas están confeccionadas con material sintético suave en la parte superior para un uso duradero.",
+            "image": "./img/NikeAirVaporMaxPlus.jpg",
+            "countItems": 0,
+            "precio": 220.00
+          },
+          
+          {
+            "id": 12,
+            "nombre": "Adidas Originals Zapatilla NMD_G1",
+            "marca": "Adidas",
+            "modelo": "Originals Zapatilla NMD_G1",
+            "descripcion": "Esta zapatilla adidas NMD_G1 luce un diseño vanguardista que continúa la labor de sus predecesoras y sigue desafiando los límites del estilo contemporáneo.",
+            "image": "./img/AdidasOriginalsZapatillaNMD_G1.jpg",
+            "countItems": 0,
+            "precio": 160.00
+          },
+          {
+            "id": 13,
+            "nombre": "Adidas SuperStar",
+            "marca": "Adidas",
+            "modelo": "SuperStar",
+            "descripcion": "Nacida para el baloncesto, pero adoptada por las escenas del hip hop y el skate. La clásica Superstar confeccionada en piel cambió las reglas del juego en cuanto salió de las canchas. Las 3 bandas dentadas, la mítica puntera de goma y el logotipo conservan intacta la esencia del modelo original.",
+            "image": "./img/AdidasSuperStar.jpg",
+            "countItems": 0,
+            "precio": 120.00
+          },
+          {
+            "id": 14,
+            "nombre": "Adidas Originals ZX 750",
+            "marca": "Adidas",
+            "modelo": "Originals ZX 750",
+            "descripcion": "En una combinación de colores negro y gris, estos tenis exclusivos de JD están confeccionados con tela ligera y duradera y material sintético en la parte superior para un uso duradero. ",
+            "image": "./img/AdidasOriginalsZX750.jpg",
+            "countItems": 0,
+            "precio": 120.00
+          },
+          {
+            "id": 15,
+            "nombre": "Adidas Originals Forum Mid júnior",
+            "marca": "Adidas",
+            "modelo": "Originals Forum Mid júnior",
+            "descripcion": "La Forum Mid fue la zapatilla de baloncesto más avanzada de su tiempo. Ahora regresa para revolucionar la calle. Siéntete como si machacaras el aro con esta zapatilla de media caña diseñada para jóvenes con estilo.",
+            "image": "./img/AdidasOriginalsForumMidjúnior.jpg",
+            "countItems": 0,
+            "precio": 90.00
+          },
+          {
+            "id": 16,
+            "nombre": "Adidas Originals Zapatilla Stan Smith",
+            "marca": "Adidas",
+            "modelo": "Originals Zapatilla Stan Smith",
+            "descripcion": "Encanto atemporal. Estilo informal. Su versatilidad no conoce fronteras. La zapatilla Stan Smith es un icono desde hace más de 50 años. Esta versión actualiza su silueta clásica con un diseño que refleja el compromiso de adidas de utilizar solo poliéster reciclado para 2024.",
+            "image": "./img/AdidasOriginalsZapatillaStanSmith.jpg",
+            "countItems": 0,
+            "precio": 110.00
+          },
+          {
+            "id": 17,
+            "nombre": "Adidas Originals Gazelle Bold",
+            "marca": "Adidas",
+            "modelo": "Originals Gazelle Bold",
+            "descripcion": "Presenta una parte superior de malla tupida con refuerzos sintéticos envolventes que te ofrecen mayor sujeción y estilo. Los ojales gruesos acentúan su llamativo look.",
+            "image": "./img/AdidasOriginalsGazelleBold.jpg",
+            "countItems": 0,
+            "precio": 120.00
+          },
+          {
+            "id": 18,
+            "nombre": "Adidas Originals Rivalry Low",
+            "marca": "Adidas",
+            "modelo": "Originals Rivalry Low",
+            "descripcion": "Esta zapatilla adidas actualiza una silueta clásica de baloncesto de los 80 con un diseño de caña baja muy actual. Presenta una parte superior de ante prémium en colores tenues que le confieren un look suave y discreto. ",
+            "image": "./img/AdidasOriginalsRivalryLow.jpg",
+            "countItems": 0,
+            "precio": 110.00
+          },
+          {
+            "id": 19,
+            "nombre": "Adidas Originals Superstar XLG",
+            "marca": "Adidas",
+            "modelo": "Originals Superstar XLG",
+            "descripcion": "Sedán familiar con espacio interior amplio y eficiencia de combustible.",
+            "image": "./img/AdidasOriginalsSuperstarXLG.jpg",
+            "countItems": 0,
+            "precio": 120.00
+          },
+          {
+            "id": 20,
+            "nombre": "Adidas Originals Samba OG",
+            "marca": "Adidas",
+            "modelo": "Originals Samba OG",
+            "descripcion": "Sin duda, la adidas Samba se ha ganado el estatus de icono de estilo por derecho propio. Presenta una parte superior de piel suave y una suela de goma flexible que te ofrecen la comodidad que buscas en tu día a día.",
+            "image": "./img/AdidasOriginalsSambaOG.jpg",
+            "countItems": 0,
+            "precio": 130.00
+          }
+      ]
+    }
